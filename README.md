@@ -12,3 +12,5 @@ jre-openjdk and jdk-openjdk - for java programming,
 maven - for java projects,
 feh - for images and background,
 vim - for alternative terminal text editor,
+alsa-utils - for sound control
+texlive-most and texlive-lang - for LaTeX document editing 
