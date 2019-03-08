@@ -1,0 +1,8 @@
+# mudar o nome do arquivo para .Xresources
+
+URxvt*matcher.button: 1
+URxvt*scrollBar: false
+URxvt*font:		xft:inconsolata:pixelsize=15
+URxvt*boldfont:		xft:inconsolata:bold:size=16
+URxvt*foreground:   yellow
+URxvt*background:   black
