@@ -1,8 +1,25 @@
-# mudar o nome do arquivo para .Xresources
-
-URxvt*matcher.button: 1
+URxvt.cursorUnderline: 1
 URxvt*scrollBar: false
-URxvt*font:		xft:inconsolata:pixelsize=15
-URxvt*boldfont:		xft:inconsolata:bold:size=16
-URxvt*foreground:   yellow
-URxvt*background:   black
+URxvt*font:		xft:inconsolata:pixelsize=14
+URxvt*boldfont:		xft:inconsolata:bold:size=15
+URxvt.transparent:   true
+URxvt.shading:       30
+*.foreground: YELLOW
+*.background: BLACK
+*.cursorColor: YELLOW
+*.color0:     #000000
+*.color8:     #4D4D4D
+*.color1:     #ff002b
+*.color9:     #ff002b
+*.color2:     #2dfb3b
+*.color10:    #2dfb3b
+*.color3:     #f5c740
+*.color11:    #f5c740
+*.color4:     #3d00ff
+*.color12:    #3d00ff
+*.color5:     #FF79C6
+*.color13:    #FF92D0
+*.color6:     #8BE9FD
+*.color14:    #9AEDFE
+*.color7:     #BFBFBF
+*.color15:    #E6E6E6
