@@ -165,3 +165,5 @@ zathura-pdf-mupdf 0.3.4-1
 wine
 wine_gecko
 wine-mono
+lib32-alsa-lib
+lib32-alsa-plugins
