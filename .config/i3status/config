@@ -25,7 +25,7 @@ ethernet enp3s0 {
         format_down = "<span background='#0f0f0f' foreground='#A599E9'> ⛔ </span><span background='#0f0f0f' foreground='#c1c1c1'> Disconnected </span>"
 }
 
-wireless wlo1 {
+wireless wlp3s0 {
         format_up = "<span background='#0f0f0f' foreground='#A599E9'> WiFi </span><span background='#0f0f0f' foreground='#c1c1c1'> %essid </span>"
         format_down = "<span background='#0f0f0f' foreground='#A599E9'> ⛔ </span><span background='#0f0f0f' foreground='#c1c1c1'> Disconnected </span>"
 }
