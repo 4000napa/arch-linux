@@ -8,6 +8,6 @@
 alias ls='ls --color=auto' 
 PS1="\[\e[0m\]\u \w > \[\e[4m\]"
 trap 'tput sgr0' DEBUG
-
+setxkbmap -model pc104 -layout us_intl
 
 
