@@ -2,8 +2,9 @@ URxvt.cursorUnderline: true
 URxvt.cursorBlink: true
 URxvt.urgentOnBell: true
 URxvt.scrollBar: false
-URxvt.font:	xft:inconsolata:pixelsize=14
-URxvt.boldfont:	xft:inconsolata:bold:pixelsize=14
+URxvt.underlineColor:  #7100DC
+URxvt.font:	xft:IBM Plex Mono:pixelsize=13
+URxvt.boldfont:	xft:IBM Plex Mono:bold:pixelsize=13
 URxvt.internalBorder: 10
 URxvt.letterSpace: 0
 URxvt.foreground: YELLOW

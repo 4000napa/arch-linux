@@ -1,500 +1,500 @@
-code CalcUnit.rb 2 +3 * 5- 4
-ruby calculadora.rb 2 +3 * 5- 4
-./calculadora.rb 2 +3 * 5- 4
+cd Downloads/
+ls
+rm -r polybar-themes-master
+7z x polybar-themes-master.zip 
+cd polybar-themes-master
+mv polybar-6/* ~/.config/polybar/
+polybar
+clear
+cd 
+cd .config/polybar/
+ls
+sh launch.sh 
 clear
 ls
-./calculadora.rb 2 +3 * 5- 4
-./calculadora.rb "4^(1/2)"
-./calculadora.rb 2+ 3
-2 +3 * 5- 4
-./calculadora.rb 2 +3 *5- 4
-clear
-clear
-ls
-clear
-ls
-clear
-clear
-nmcli device wifi list
-nmcli
-clear
-nmcli device wifi list
-wifimenu
-wifi-menu
-sudo wifi-menu
-clear
-clear
-nmcli device wifi list
-nmcli device connect "UNB Wireless" username 180053922 password 18raiKiq17
-nmcli device connect UNB Wireless username 180053922 password 18raiKiq17
-nmcli device connect eduroam username 180053922 password 18raiKiq17
-clear
-nmcli device wifi list
-clear
-alsamixer
-clear
 cd ..
+clear
+ls
+rm polybar/*
+rm -r polybar/*
+clear
+mv Downloads/polybar-themes-master/polybar-8/* .config/polybar/
+sh .config/polybar/launch.sh 
+code  Downloads/polybar-themes-master/polybar-7/launch.sh 
+clear
+killall -q polybar
+polybar -c ~/.config/polybar/config 
+polybar -c ~/.config/polybar/config main &
+rm -r .config/polybar/*
+mv Downloads/polybar-themes-master/polybar-2/* .config/polybar/
+sh .config/polybar/launch.sh 
+ls .config/polybar/
+cd .config/polybar/
+ls
+cd dark/
+ls
+mv config.deep-purple ../
+cd ..
+ls
+cd fonts/
+ls
+ls /usr/share/fonts/
+ls /usr/share/fonts/TTF/
+
+ls /usr/share/fonts/ttf-iosevka/
+cd fonts/
+sudo mv * /usr/share/fonts/
+clear
+ls
+cd ..
+rm -r fonts/
+ls
+rm -r light light-alt 
+cd scripts/
+ls
+cd ..
+code config.deep-purple 
+ls
+clear
+ls
+ls
+mv config.deep-purple config
+polybar example
+polybar example
+polybar config 
 clear
 cd
-clear
-cd Documentos/PythonProjects/
-ls
-python forca.py 
-code forca.py 
-python forca.py
-clear
-python forca.py
-python forca.py
-clear
-python forca.py
-clear
-python forca.py
-clear
-python forca.py
-clear
-poweroff
-cd Documentos/RubyProjects/
-./calculadora "2*9^(1/2)"
-./calculadora.rb "2*9^(1/2)"
-clear
-code calculadora.rb 
-./calculadora.rb "2*9^(1/2)"
-./calculadora.rb "2*9^(1/2)"
-clear
-poweroff
-clear
-alsamixer
-yay -S grace
-clear
-grace
-clear
-yay -S wireshark-cli
-clear
-poweroff
-tree
-ls
-clear
-cd Documentos/
-cd RubyProjects/
-clear
-cd ..
-cd PythonProjects/
-ls
-python forca.py 
-clear
-python forca.py 
-python forca.py 
-clear
-wpa-supplicant
-yay -Q
-yay -Q > programas.txt
+c;ear
 clear
 ls
-code programas.txt 
-rm programas.txt 
-ls
-clear
-cd ..
-cd RubyProjects/
-ls
-./calculadora.rb "9^(1/2)+4*2"
-code calculadora.rb 
-code CalcUnit.rb 
+cd ../../clear
 clear
 
 clear
 clear
-cd
-clear
-clear
-cd /etc/wpa_supplicant/
-ls
-sudo code wpa_supplicant.conf
-wpa_supplicant 
-man wpa_supplicant
-ip link
-wpa_supplicant -B -i wlo1 -c /etc/wpa_supplicant/wpa_supplicant.conf 
-sudo wpa_supplicant -B -i wlo1 -c /etc/wpa_supplicant/wpa_supplicant.conf 
-ping google.com
-ping google.com
-sudo wpa_supplicant -B -i wlo1 -c /etc/wpa_supplicant/wpa_supplicant.conf 
-dhcpcd
-sudo dhclient
-sudo dhcpcd
+cd /usr/share/fonts/misc/
+cd /usr/share/fonts/misc/
 clear
 ls
-sudo dhcpcd
-sudo dhcpcd
+clear
+code akdkamd
+
+grub-mkconfig -o /boot/grub/grub.cfg 
+sudo 1grub-mkconfig -o /boot/grub/grub.cfg 
+sudo grub-mkconfig -o /boot/grub/grub.cfg 
+clear
+reboot 
+code /etc/default/grub 
+code /etc/default/grub 
+sudo code /etc/default/grub 
+
+clear
+
+clear
+grub-mkconfig -o /boot/grub/grub.cfg 
+sudogrub-mkconfig -o /boot/grub/grub.cfg 
+sudo grub-mkconfig -o /boot/grub/grub.cfg 
+clear
+reboot 
 clear
 ls
-sudo dhcpcd wlo1
-clear
-alsamixer
-cleaar
-clear
-sudo code wpa_supplicant.conf 
-cd
-sudo wpa_supplicant -B -i wlo1 -c /etc/wpa_supplicant/wpa_supplicant.conf 
-cd /etc/wpa_supplicant/
+cd /usr/share/grub/themes/
 ls
-rm wpa_supplicant.conf 
-clear
-echo $PS1
-clear
-sudo rm wpa_supplicant.conf 
+cd fallout-grub-theme-master/
 ls
+cd icons/
+ls
+code theme.txt
 clear
+ls
 cd ..
-cd
+cd ..
+sudo rm -r fallout-grub-theme-master/
 clear
 ls
-rm 2019-03-11-
-rm 2019-03-11-*
-ks
+cd ..
+cd ..
+cd ..
+cd ..
+cd etc/
 ls
+cd default/grub 
+cd default/
+code grub 
+sudo code grub 
+sudo grub-mkconfig -o /boot/grub/grub.cfg 
 clear
+reboot 
+clear
+clear
+ls
 poweroff
-man nmcli
-nmcli 
-man nmcli
 nmcli device wifi list
-nmcli device wifi connect Chaves password mamae_e_daddy
+nmcli device wifi list
+nmcli device wifi list
+nmcli device wifi connect Iphoninho password 244466666
 clear
-alsamixer 
-sudo code /etc/wpa_supplicant/wpa_supplicant.conf
-yay -Rs netctl
+code .config/i3status/config 
+ip link
+nmcli connection add type wifi con-name eduroam ifname wlp3s0  ssid "eduroam" -- wifi-sec.key-mgmt wpa-eap 802-1x.eap ttls 802-1x.identity 180053922 802-1x.phase2-auth  mschapv2 802-1x.domain-suffix-match radius-service.ethz.ch
+nmcli connection up eduroam --ask
+nmcli connection up eduroam --ask
 clear
-cd /etc/NetworkManager/
 ls
-sudo code NetworkManager.conf 
-cd conf.d/
-ls
-cd ..
-cd system-connections/
-sudo cd system-connections/
-ls
-sudo -i
-code /etc/wpa_supplicant/wpa_supplicant.conf 
-poweroff
-sudo wpa_supplicant -B -i wlo1 -c /etc/wpa_supplicant/wpa_supplicant.conf 
+nmcli connection add type wifi con-name eduroam ifname wlp3s0  ssid "eduroam" -- wifi-sec.key-mgmt wpa-eap 802-1x.eap ttls 802-1x.identity 180053922 802-1x.phase2-auth  mschapv2 802-1x.domain-suffix-match radius-service.ethz.ch
+nmcli connection up eduroam --ask
 clear
-sudo code /etc/wpa_supplicant/wpa_supplicant.conf 
-sudo code /etc/wpa_supplicant/wpa_supplicant.conf 
+nmcli connection add type wifi con-name eduroam ifname wlp3s0  ssid "eduroam" -- wifi-sec.key-mgmt wpa-eap 802-1x.eap ttls 802-1x.i180053922@aluno.unb.br 802-1x.phase2-auth  mschapv2 802-1x.domain-suffix-match radius-service.ethz.ch
+clear
+ls
+clear
+nmcli connection add type wifi con-name eduroam ifname wlp3s0  ssid "eduroam" -- wifi-sec.key-mgmt wpa-eap 802-1x.eap ttls 802-1x.identity 180053922@aluno.unb.br 802-1x.phase2-auth  mschapv2 802-1x.domain-suffix-match radius-service.ethz.ch
+nmcli connection up eduroam --ask
+nmcli connection up eduroam --ask
+clear
+clear
+ls
+clear
+clear
+polybar example
+clear
+ls
+polybar .config/polybar/config 
+ls
+cd .config/polybar/
+ls
+cd config 
+code config 
+polybar mybar &
+polybar mybar &
+clear
+cd
+polybar mybar &
+clear
+polybar .config/polybar/config &
+clear
 ls
 cd .config/
 ls
-cd i3
+cd polybar/
 ls
-vim config 
-sudo wpa_supplicant -B -i wlo1 -c /etc/wpa_supplicant/wpa_supplicant.conf 
-dhcpcd 
-sudo dhcpcd
-sudo dhcpcd
-sudo wpa_supplicant -B -i wlo1 -c /etc/wpa_supplicant/wpa_supplicant.conf 
-sudo dhcpcd
-ls
-sudo code /etc/wpa_supplicant/
-sudo code /etc/wpa_supplicant/wpa_supplicant.conf 
-nmcli device wifi list
-clear
-sudo wpa_supplicant -B -i wlo1 -c /etc/wpa_supplicant/wpa_supplicant.conf
-clear
-sudo -i
-rm /etc/wpa_supplicant/wpa_supplicant.conf 
-sudo rm /etc/wpa_supplicant/wpa_supplicant.conf 
+rm -r *
 ls
 clear
-ls
+cp /usr/share/doc/polybar/config ./
 clear
-ls
-clear
-clear
-clear
-nmcli device wifi list
-clear
-poweroff
-clear
-sudo -i
-ls
-sudo -i
-poweroff
-clear
-nmcli connection add type wifi con-name eduroam ifname wlo1 ssid "eduroam" -- wifi-sec.key-mgmt wpa-eap 802-1x.eap ttls 802-1x.identity "180053922@aluno.unb.br" 802-1x.password "18raiKiq17" 802-1x.phase2-auth mschapv2
-poweroff
-alsamixer
-cler
-clear
-cd Documentos/
-ls
-cd Git/
-cd arch-linux/
-ls
-code UNBWIFI.txt
-git add
-git add -a
-git add -A
-clear
-git commit 
-git commit -m "comando para wifi eduroam"
-cd Documentos/Git/arch-linux/
-ls
-git add packages.txt 
-git add UNBWIFI.txt 
-git commit -m "Arquivo de configuracao WIFI"
-git push
-clear
-ls
 cd
+polybar example
 clear
-cd Do
+ls
+code .config/polybar/config 
 cd Downloads/
 ls
+clear
 ls
-cd config/
+cd polybar-themes-master
 ls
 cd ..
+clear
 ls
-rm -r config/
+rm -r polybar-themes-master
+7z x polybar-themes-master.zip 
+yay -S nerd-fonts-iosevka
+clear
+code /etc/profile
+code /etc/environment 
+sudo code /etc/environment 
+cd polybar-themes-master
+cd polybar-2/
 ls
+cd dark/
+ls
+mv config.deep-purple ~/.config/polybar/
+cd ..
+ls
+cd other-variants/
+ls
+cd ..
+cd scripts/
+ls
+clear
+cd 
+cd
+cd .config/polybar/
+code config.deep-purple 
+polybar main
+polybar main
+mv config config.example
+mv config.deep-purple config
+polybar main
+clear
+code config
+code config.example 
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+xdg open google.com
+xdg-open google.com
+yay -S xdg-utils
+clear
+xdg-open google.com
+xdg-open https://google.com
+xdg-open firefox-developer-edition
+xdg-open firefox-developer-edition
+xdg-open browser
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+clear
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+clear
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+clear
+polybar main
+clear
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+clear
+ls
+cd .config/polybar/
+ls
+rm config.example 
+cd Downloads/
+ls
+cd polybar-themes-master
 cd
 cd Downloads/
-rm Computer-Networking-7th.pdf 
-cd 
+cd polybar-themes-master
+ls
+cd polybar-2
+cd dark/config.deep-orange 
+ls 
+cd scripts/
+ls
+code check-network 
+cd ..
+cd ..
+cd ..
+rm polybar-themes-master
+rm -r polybar-themes-master
+rm fallout-grub-theme-master.zip 
+clear
+ls
+cd ..
+cd .config/polybar/
+code launch.sh
+code ../i3/config 
+reboot 
+polybar main
+polybar main
+code .config/i3/config 
+reboot 
+clear
+clear
+poweroff
+nmcli device wifi list
+clear
+clear
+ls
+cd .config/polybar/
+ls
+code config 
+cp /usr/share/doc/polybar/config ./config.example
+clear
+code config.example 
+killall -q polybar
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+ls
+ls
+polybar main
+cd Downloads/
+7z x polybar-themes-master.zip 
+cd polybar-themes-master
+cd polybar-1
+ls
+cd dark/
+ls
+code config.deep-purple 
+reboot 
+cd Downloads/
+ls
+rm polybar-themes-maste*
+rm -r polybar-themes-maste*
+clear
+cd
+code .config/polybar/config
+killall polybar
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+polybar main
+reboot 
+clear
+ls
+rofi firefox-developer-edition
+clear
+code .config/polybar/config
+poweroff 
+firefox-developer-edition 
+adamlkdmakdmalkdmalkmdlkamd
+admadmalknm lknmal mlkam lkdmalk ms kdmasda- a- -admadma
+admadmalknm lknmal mlkam lkdmalk ms kdmasda- a- -admadma
+clear
+code .bashrc 
+yay -S rofi-dmenu
+rofi -show run -modi run -location 1 -width 100  -lines 2 -line-margin 0 -line-padding 1  -separator-style none -font "mono 10" -columns 9 -bw 0  -disable-history  -hide-scrollbar  -color-window "#222222, #222222, #b1b4b3"  -color-normal "#222222, #b1b4b3, #222222, #005577, #b1b4b3"  -color-active "#222222, #b1b4b3, #222222, #007763, #b1b4b3"  -color-urgent "#222222, #b1b4b3, #222222, #77003d, #b1b4b3" rofi -show run -modi run -location 1 -width 100  -lines 2 -line-margin 0 -line-padding 1  -separator-style none -font "mono 10" -columns 9 -bw 0  -disable-history  -hide-scrollbar  -color-window "#222222, #222222, #b1b4b3"  -color-normal "#222222, #b1b4b3, #222222, #005577, #b1b4b3"  -color-active "#222222, #b1b4b3, #222222, #007763, #b1b4b3"  -color-urgent "#222222, #b1b4b3, #222222, #77003d, #b1b4b3" cllear
+clear
+firefox-developer-edition 
+firefox-developer-edition 
+ls
+rofi -run
+rofi -show run
+rofi -show dmenu
+rofi -dmenu
+clear
+rofi -show dmenu
+rofi -show run
+clear
+clear
+yay -Rs rofi rofi-dmenu
+yay -S dmenu
+clear
+code .config/i3
+code .config/i3/config 
+dmenu
+clear
+yay -S dmenu2
+clear
+man dmenu
+man dmenu
+reboot 
+clear
+man dmenu
+man dmenu
+reboot 
+clear
+clear
+yay -S scrot
+clear
+scrot
+ls
+rm 2020-03-01-14052*
+clear
+scrot
+code .config/polybar/config
+reboot 
+poweroff
+yay -S xbindkeys
+clear
+ls
+rm 2020-03-01-140539_1366x768_scrot.png 
+clear
+ls
+clear
+xbindkeys -d .xbindkeysrc
+ls
 ls -a
-cd Documentos/
-code .NeverKnow.txt 
+code .xbindkeysrc
+xbacklight -dec 10
+xbacklight -dec 10
+xbacklight -dec 10
+xbacklight -dec 10
+xbacklight -dec 10
+xbacklight -inc 10
+xbacklight -inc 10
+xbacklight -inc 10
+ls /sys/class/backlight/
+cat /sys/class/backlight/intel_backlight/max_brightness 
+echo 400 > /sys/class/backlight/intel_backlight/brightness 
+sudo echo 400 > /sys/class/backlight/intel_backlight/brightness 
+sudo echo 400 > /sys/class/backlight/intel_backlight/brightness 
+yay -S acpilight
 clear
-ls
-cd 
-cd Downloads/
-ls
+xbacklight -set 50
+yay -S light
+light -G
+light -U 50
+light -S 50
+sudo light -S 50
+sudo light -S 25
+sudo light -S 10
+sudo light -S 100
+sudo light -S 10
+light -S 20
+light -S 80
+sudo xbacklight -set 50
+sudo xbacklight -set 100
+light -S 3
+sudo light -S 30
+group
+groups
+cat /etc/group
+usermod -aG audio username
+usermod -aG audio beto
+sudo usermod -aG audio beto
+sudo usermod -aG video beto
 clear
-ls
-ls
-mv 10617_1870_1.pdf computer_networking
-mkdir Livros_UnB
-ls
-mv computer_networking Livros_UnB/
-ls
-cd Livros_UnB/
-ls
-mv computer_networking computer_networking.pdf
-ls
-clear
-ls
-cd .
-cd ..
-ls
-zathura 'Física 3 - Eletromagnetismo - Sears & Zemansky; Young & Freedman - 14ª Edição.pdf' 
-mv 'Física 3 - Eletromagnetismo - Sears & Zemansky; Young & Freedman - 14ª Edição.pdf' Livros_UnB/Fisica3-Young&Freedman
-mv 'Física 3 - Eletromagnetismo - Sears & Zemansky; Young & Freedman - 14ª Edição.pdf' Livros_UnB/Fisica3-Young&Freedman
-clear
-clear
-ls
-cd Livros_UnB/
-ls
-mv Fisica3-Young Fisica3-YoungEFreedman
-ls
-mv Fisica3-YoungEFreedman Fisica3-YoungEFreedman.pdf
-ls
-clear
-poweroff
-clear
-clear
-clear
-cd Downloads/Livros_UnB/
-ls
-mv computer_networking.pdf redes.pdf
-mv Fisica3-YoungEFreedman.pdf fisica3.pdf
-clear
-ls
-s
-ls
-code dead.letter 
-rm dead.letter 
-clear
-cd Documentos/
-ls
-cd PythonProjects/
-ls
-python forca.py 
-clear
-python forca.py 
-clear
-clear
-clear
-poweroff
-alsamixer
-cd /home/beto/Documentos/RubyProjects ; env "PYTHONIOENCODING=UTF-8" "PYTHONUNBUFFERED=1" /usr/bin/python /home/beto/.vscode-oss/extensions/ms-python.python-2019.1.0/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 35037 /home/beto/Documentos/RubyProjects/23.py 
-cd Documentos/RubyProjects/
-code 23.rb
-ruby 23.rb
-ruby 23.rb
-ruby 23.rb
-ruby 23.rb
-ruby 23.rb
-ruby 23.rb
-ruby 23.rb
-ruby 23.rb
-ruby 23.rb
-ruby 23.rb
-clear
-ruby 23.rb
-ruby 23.rb
-ruby 23.rb
-ruby 23.rb
-
-ruby 23.rb
-ruby 23.rb
-ruby 23.rb
-48 72
-ruby 23.rb
-clear
-ruby 23.rb
-ruby 23.rb
-ruby 23.rb
-ruby 23.rb
-code 23.c
-gcc 23.c lm
-gcc 23.c -lm
-gcc 23.c -lm
-ls
-./a.out 
-./a.out 
-clear
-./a.out 
-clear
-gcc 23.c -lm
-./a.out 
-gcc 23.c -lm
-./a.out 
-./a.out 
-clear
-./a.out 
-./a.out 
-./a.out 
-gcc 23.c -lm
-./a.out 
-code 23.py
-python 23.py
-python 23.py
-python 23.py
-python 23.py
-python 23.py
-python 23.py
-python 23.py
-python 23.py
-clear
-10
-codeforces
-dodivthree
-dodivthree
-clear
-python 23.py
-python 23.py
-python 23.py
-clear
-python 23.py
-python 23.py
-python 23.py
-python 23.py
-python 23.py
-clear
-python 23.py
-python 23.py
-clear
-ls
-rm 23.*
-clear
-ls
-rm a.out 
-ls
-cd ED/
-ls
-cd ..
-rm -r ED/
-ls
-./calculadora.rb "3^(1/2)"
-poweroff
-ls
-cd 
-cd ..
-ls
-cd ..
-ls
-cd ..
-ls
-cd usr/
-ls
-cd ..
-cd opt/
-ls
-cd ..
-cd boot
-ls
-cd ..
-clear
-ls
-cd dev
-ls
-cd ..
-ls
-cd home/
-ls
-clear
-poweroff
-alsamixer
-alsamixer
-clear
-nmcli device wifi list
-clear
-cd Downloads/Livros_UnB/
-clear
-cd ..
-feh codigocores.png 
-rm codigocores.png 
-clear
-cd 
-cd Documentos/RubyProjects/
-code uri.rb 
-ruby uri.rb
-ruby uri.rb
-hwclock --show
-timedatectl set-time "2019-03-20 08:49:00"
-sudo timedatectl set-time "2019-03-20 08:49:00"
-hwclock --systohc
-sudo hwclock --systohc
-sudo hwclock --show
-clear
-cd 
-cd Downloads/
-ls
-cd 
-cd Documentos/L
-cd Documentos/Latex/
-ls
-code sample.tex 
-cd ..
-cd RubyProjects/
-nmcli
-clear
-nmcli device wifi list
-clear
-code CalcUnit.rb 
-code calculadora.rb 
-reboot
-cd Downloads/Livros_UnB/
-zathura fisica3.pdf 
-clear
-clear
-poweroff
-poweroff
-code Documentos/Latex/sample.tex 
-poweroff
-cd Documentos/RubyProjects/
-./calculadora.rb 1199+189.49
-./calculadora.rb 1199+189.49+249
-cd Downloads/Livros_UnB/
-ls
-zathura fisica3.pdf 
-poweroff
+light -S 50
+xbindkeys --poll-rc
+xbindkeys --poll-rc
+xbindkeys --poll-rc
+reboot 

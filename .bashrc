@@ -6,5 +6,8 @@
 [[ $- != *i* ]] && return
 
 alias ls='ls --color=auto' 
-PS1="┌────────┤  \u   \w\n└─> "
+PS1="\[\e[0m\]\u \w > \[\e[4m\]"
+trap 'tput sgr0' DEBUG
+
+
 
