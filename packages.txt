@@ -10,3 +10,4 @@ pulseaudio
 networkmanager
 dmenu
 VARIAS FONTES(olhar os arquivos de configuracao)(inconsolata)(ibmplex)
+posy-cursors (olhar no archwiki como configurar)
