@@ -1,2 +1,2 @@
 # Arch-Linux
-List of Arch-Linux Packages
+Arquivos de configuração para Arch Linux com WM i3-gaps.
