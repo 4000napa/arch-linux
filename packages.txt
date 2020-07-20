@@ -4,7 +4,7 @@ urxvt
 xbindkeys
 picom(compton)
 feh
-firefox
+firefox (addons firefox colors & stylus)
 light (entrar no group video)
 alsa-utils (entrar no group audio)
 pulseaudio
