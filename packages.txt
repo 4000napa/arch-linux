@@ -4,10 +4,14 @@ urxvt
 xbindkeys
 picom(compton)
 feh
+firefox
 light (entrar no group video)
 alsa-utils (entrar no group audio)
 pulseaudio
 networkmanager
 dmenu
+zathura
+zathura-pdf-mupdf
 VARIAS FONTES(olhar os arquivos de configuracao)(inconsolata)(ibmplex)
+code (shades of purpletheme)
 posy-cursors (olhar no archwiki como configurar)
