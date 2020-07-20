@@ -9,7 +9,6 @@
 ;   ╚═╝      ╚═════╝ ╚══════╝╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 ;
 ;
-;   Created By Aditya Shakya.
 ;
 ;==========================================================
 
@@ -88,7 +87,7 @@ scroll-down = i3wm-wsprev
 
 ;== Module Location ========================================================
 
-modules-left = arch workspaces google reddit youtube
+modules-left = arch workspaces google youtube reddit
 modules-right = volume battery ethernet wifi date powermenu
  
 ;== Modules ========================================================
@@ -177,7 +176,7 @@ click-left = xdg-open https://www.youtube.com/feed/subscriptions
 
 [module/battery]
 type = internal/battery
-full-at = 99
+full-at = 100
 time-format = %H:%M
 battery = BAT0
 adapter = AC
@@ -294,6 +293,6 @@ menu-0-0 = 襤
 menu-0-0-padding = 2
 menu-0-0-foreground = ${color.fg}
 menu-0-0-background = ${color.shade1}
-menu-0-0-exec = sudo poweroff
+menu-0-0-exec = poweroff
 
 ;== EOF ========================================================
